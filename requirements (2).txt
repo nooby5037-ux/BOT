@@ -1,0 +1,4 @@
+nextcord>=2.0.0
+python-dotenv>=1.0.0
+pylxd>=2.2.10
+aiohttp>=3.8.1

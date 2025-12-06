@@ -1,0 +1,8 @@
+# Discord bot token
+BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN_HERE
+
+# Discord user ID of bot owner (numeric)
+OWNER_ID=123456789012345678
+
+# Logo URL to use in embed thumbnails
+BOT_LOGO_URL=https://example.com/logo.png
